@@ -1,3 +1,12 @@
-
-console.log(parseInt('2.2222',10))
-console.log(parseFloat('80.12399'))
+function add(a,b){
+  return a+b
+}
+function subtract(a,b){
+  return a-b
+}
+function multiply(a,b){
+  return a*b
+}
+function divide (a,b){
+  return a/b
+}
