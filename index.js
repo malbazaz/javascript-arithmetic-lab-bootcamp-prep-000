@@ -1,6 +1,1 @@
-add(){
-  
-}
-subtract()
-multiply()
-divide()
+parseInt('2.2222',10)
